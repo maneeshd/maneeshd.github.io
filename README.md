@@ -1,2 +1,3 @@
-# maneeshd.github.io
-My Portfolio
+# Maneesh Divana
+
+### My Portfolio
