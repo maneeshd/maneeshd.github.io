@@ -1,0 +1,60 @@
+body {
+    font-family: 'Titillium Web', helvetica, sans-serif;
+    background-color: #212f3d;
+    text-align: center;
+    vertical-align: middle;
+    color: #f39c12;
+}
+
+a {
+    color: #f39c12;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#under-const {
+    font-size: 20px;
+    padding: 7px;
+    border: 2px dashed #f39c12;
+}
+
+#footer {
+    position: absolute;
+    width: 50%;
+    margin-left: 24%;
+    margin-right: 24%;
+    bottom: 0;
+    padding: 7px 5px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.bg-light-dark {
+    background-color: #212f3d;
+}
+
+#profile-pic {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.display-5 {
+    font-size: 1.5vw;
+}
+
+@media only screen and (max-width: 640px) {
+    .subscript {
+        font-size: 0.7em;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .subscript {
+        font-size: 0.5em;
+    }
+}
